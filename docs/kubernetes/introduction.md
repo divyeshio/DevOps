@@ -416,7 +416,7 @@ spec:
 
 ### Headless Service
 
-A headless service is a service with a cluster IP of None. It is used to disable the load balancing for the service. It is used to get the DNS records for the pods. It is used to get the DNS records for the pods. It is used to get the DNS records for the pods.
+A headless service is a service with a cluster IP of None. It is used to disable the load balancing for the service. It is used to get the DNS records for the pods.
 
 ```yaml
 apiVersion: v1
